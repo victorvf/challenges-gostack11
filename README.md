@@ -45,6 +45,10 @@
 
 <p>Challenge in which we created the Transaction API front end.</p>
 
+- <a href="https://github.com/victorvf/challenges-gostack11/tree/master/challenge07">Challenge 07</a>
+
+<p>goMarketplace, in this challenge, we created a market to study the ContextAPI concept, when add products to the cart, increment and decrement.</p>
+
 ## :memo: License
 
 this project is under the MIT license. See the archive [LICENSE](https://github.com/Rocketseat/bootcamp-gostack-desafio-03/blob/master/LICENSE.md) for more details.
