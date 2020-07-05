@@ -53,6 +53,10 @@
 
 <p>Challenge to study Typescript, Typeorm and relation ManyToMany.</p>
 
+- <a href="https://github.com/victorvf/challenges-gostack11/tree/master/challenge09">Challenge 09</a>
+
+<p>goRestaurant, challenge to study React and Typescript.</p>
+
 ## :memo: License
 
 this project is under the MIT license. See the archive [LICENSE](https://github.com/Rocketseat/bootcamp-gostack-desafio-03/blob/master/LICENSE.md) for more details.
